@@ -1,11 +1,10 @@
 # 📊 Excel Social Media Analysis Dashboard
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1f77b4?style=for-the-badge)
-![KPIs](https://img.shields.io/badge/KPIs-6f42c1?style=for-the-badge)
-![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-f39c12?style=for-the-badge)
-![Charts](https://img.shields.io/badge/Charts-2ecc71?style=for-the-badge)
-
+![Excel](https://img.shields.io/badge/Tool-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Analysis](https://img.shields.io/badge/Type-Data%20Analysis-blue?style=flat)
+![KPIs](https://img.shields.io/badge/Feature-KPIs-purple?style=flat)
+![Pivot](https://img.shields.io/badge/Feature-Pivot%20Tables-orange?style=flat)
+![Charts](https://img.shields.io/badge/Feature-Charts-green?style=flat)
 
 💼 This project demonstrates my ability to analyze social media performance using Excel and convert raw data into actionable business insights.
 
