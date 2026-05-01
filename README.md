@@ -1,84 +1,72 @@
-# 📊 Excel Social Media Analysis
+# 📊 Excel Social Media Analysis Dashboard
 
 ![Excel](https://img.shields.io/badge/Tool-Excel-green)
 ![Analysis](https://img.shields.io/badge/Type-Data%20Analysis-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
-💼 This project demonstrates my skills in data analysis, dashboarding, and business insights.
 
-
-
-🚀 Analyze social media performance using Excel dashboards, KPIs, and pivot tables.
+💼 This project demonstrates my ability to analyze social media performance using Excel and convert raw data into actionable business insights.
 
 ---
 
 ## 📌 Project Overview
-This project analyzes social media engagement, reach, and content performance using Excel.  
-Interactive dashboards provide insights into trends, top posts, and audience behavior.
+
+This project analyzes engagement, impressions, shares, and comments across multiple social media platforms.
+Interactive dashboards help identify trends, top-performing platforms, and user behavior.
 
 ---
 
-## 🎯 Key Objectives
-- Identify top-performing content
-- Analyze engagement trends
-- Understand audience behavior
-- Provide data-driven recommendations
+## 🎯 Key Business Questions
+
+* Which platform has the highest engagement?
+* Which platform drives the most impressions?
+* How do shares and comments vary across platforms?
 
 ---
-
-## 📌 Why This Project Matters
-This project simulates real-world business analysis by transforming raw social media data into actionable insights.
 
 ## 🛠 Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Data Cleaning
-- Dashboard Design
+
+* Microsoft Excel
+* Pivot Tables
+* Data Cleaning
+* Dashboard Design
 
 ---
 
-## 📊 Key Features
-✔ Interactive Dashboard  
-✔ KPI Tracking  
-✔ Trend Analysis  
-✔ Top Post Identification  
+## 📊 Dashboard Features
+
+* KPI Cards (Comments, Shares, Impressions, Engagement Rate)
+* Platform-wise comparison charts
+* Interactive visuals
+* Business insights summary
 
 ---
 
+## 📷 Dashboard Preview
 
-📊 Social Media Performance Dashboard
-
-
-[TITLE]
-
-[KPI CARDS – 4]
-
-[CHARTS – 2x2 GRID]
-
-[INSIGHTS BOX]
+![Dashboard](images/dashboard.png)
 
 ---
 
-📌 Key Insights:
-• YouTube has highest engagement
-• Instagram drives highest impressions
-• Twitter has lowest performance
-• Peak engagement observed on weekends
+## 📈 Key Insights
 
----
-
-## 🚀 How to Use
-1. Download the dataset  
-2. Open Excel dashboard  
-3. Explore filters & visuals  
+* YouTube leads in comments, shares, and impressions
+* Facebook shows the highest engagement rate
+* Twitter has the lowest engagement
+* Instagram performs consistently across metrics
 
 ---
 
 ## 💡 Business Impact
-This project helps businesses:
-- Improve content strategy  
-- Increase engagement  
-- Make data-driven decisions  
+
+This dashboard helps businesses:
+
+* Optimize content strategy
+* Improve audience engagement
+* Make data-driven marketing decisions
 
 ---
 
+## 👩‍💻 Author
+
+Nanditha TS
