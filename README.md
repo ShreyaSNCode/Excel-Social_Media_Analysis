@@ -6,6 +6,8 @@
 
 💼 This project demonstrates my skills in data analysis, dashboarding, and business insights.
 
+
+
 🚀 Analyze social media performance using Excel dashboards, KPIs, and pivot tables.
 
 ---
@@ -43,8 +45,17 @@ This project simulates real-world business analysis by transforming raw social m
 
 ---
 
-## 📷 Dashboard Preview
-![Dashboard](your-image-link-here)
+
+📊 Social Media Performance Dashboard
+
+
+[TITLE]
+
+[KPI CARDS – 4]
+
+[CHARTS – 2x2 GRID]
+
+[INSIGHTS BOX]
 
 ---
 
@@ -71,5 +82,3 @@ This project helps businesses:
 
 ---
 
-## 👩‍💻 Author
-Nanditha TS
