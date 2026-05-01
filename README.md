@@ -65,6 +65,4 @@ This dashboard helps businesses:
 
 ---
 
-## 👩‍💻 Author
 
-Nanditha TS
