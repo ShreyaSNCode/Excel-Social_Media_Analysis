@@ -13,7 +13,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes engagement, impressions, shares, and comments across multiple social media platforms.
+This project analyzes social media performance metrics to generate actionable business insights.
 Interactive dashboards help identify trends, top-performing platforms, and user behavior.
 
 ---
@@ -25,6 +25,12 @@ Interactive dashboards help identify trends, top-performing platforms, and user 
 * How do shares and comments vary across platforms?
 
 ---
+
+## 📂 Dataset
+A sample dataset is included. Full dataset available on request.
+
+-----
+
 
 ## 🛠 Tools Used
 
