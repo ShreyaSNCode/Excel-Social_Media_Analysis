@@ -2,9 +2,10 @@
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge&logo=chart-line&logoColor=white)
-![KPIs](https://img.shields.io/badge/KPIs-purple?style=for-the-badge)
+![KPIs](https://img.shields.io/badge/KPIs-purple?style=for-the-badge&logo=target&logoColor=white)
 ![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-orange?style=for-the-badge)
 ![Charts](https://img.shields.io/badge/Charts-green?style=for-the-badge)
+
 
 💼 This project demonstrates my ability to analyze social media performance using Excel and convert raw data into actionable business insights.
 
