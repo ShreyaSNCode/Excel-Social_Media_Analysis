@@ -42,7 +42,7 @@ Interactive dashboards help identify trends, top-performing platforms, and user 
 
 ---
 ## 📷 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ----
 
