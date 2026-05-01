@@ -7,7 +7,7 @@
 ![Charts](https://img.shields.io/badge/Charts-green?style=for-the-badge)
 
 
-💼 This project demonstrates my ability to analyze social media performance using Excel and convert raw data into actionable business insights.
+💼 This project analyzes social media performance metrics to generate actionable business insights.
 
 ---
 
@@ -51,6 +51,7 @@ A sample dataset is included. Full dataset available on request.
 ---
 ## 📷 Dashboard Preview
 ![Dashboard](./images/dashboard.png)
+<img src="images/dashboard.png" width="900"/>
 ----
 
 ## 📈 Key Insights
@@ -72,4 +73,6 @@ This dashboard helps businesses:
 
 ---
 
+## 📥 Download Project
+👉 [Download Excel File](Social_Media_Analysis.xlsx)
 
