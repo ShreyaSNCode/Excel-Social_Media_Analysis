@@ -50,8 +50,7 @@ A sample dataset is included. Full dataset available on request.
 
 ---
 ## 📷 Dashboard Preview
-![Dashboard](images/dashboard.png)
-
+![Dashboard](./images/dashboard.png)
 ----
 
 ## 📈 Key Insights
