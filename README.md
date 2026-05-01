@@ -41,10 +41,10 @@ Interactive dashboards help identify trends, top-performing platforms, and user 
 * Business insights summary
 
 ---
-
 ## 📷 Dashboard Preview
 ![Dashboard](images/dashboard.png)
----
+
+----
 
 ## 📈 Key Insights
 
