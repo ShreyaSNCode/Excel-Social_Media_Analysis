@@ -24,6 +24,9 @@ Interactive dashboards provide insights into trends, top posts, and audience beh
 
 ---
 
+## 📌 Why This Project Matters
+This project simulates real-world business analysis by transforming raw social media data into actionable insights.
+
 ## 🛠 Tools Used
 - Microsoft Excel
 - Pivot Tables
@@ -45,10 +48,11 @@ Interactive dashboards provide insights into trends, top posts, and audience beh
 
 ---
 
-## 📈 Key Insights
-- 📌 Engagement increases during weekends  
-- 📌 Video content performs better than images  
-- 📌 Peak activity time: 7 PM – 9 PM  
+📌 Key Insights:
+• YouTube has highest engagement
+• Instagram drives highest impressions
+• Twitter has lowest performance
+• Peak engagement observed on weekends
 
 ---
 
